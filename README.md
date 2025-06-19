@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0645-set-mismatch) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0645-set-mismatch) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 <!---LeetCode Topics End-->
