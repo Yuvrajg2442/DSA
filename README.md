@@ -79,9 +79,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
