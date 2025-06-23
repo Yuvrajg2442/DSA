@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0002-add-two-numbers) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
