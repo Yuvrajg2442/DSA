@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0645-set-mismatch) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Hash Table
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
