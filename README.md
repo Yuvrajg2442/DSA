@@ -82,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## String
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
