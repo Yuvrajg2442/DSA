@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0022-generate-parentheses) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0594-longest-harmonious-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
