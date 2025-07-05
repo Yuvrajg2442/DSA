@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0040-combination-sum-ii) |
 | [0088-merge-sorted-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0090-subsets-ii) |
 | [0485-max-consecutive-ones](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0485-max-consecutive-ones) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0090-subsets-ii) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Dynamic Programming
