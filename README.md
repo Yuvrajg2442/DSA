@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0645-set-mismatch) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0645-set-mismatch) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
