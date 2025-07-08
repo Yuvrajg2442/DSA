@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0645-set-mismatch) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0131-palindrome-partitioning) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
