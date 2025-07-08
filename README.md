@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0060-permutation-sequence) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
