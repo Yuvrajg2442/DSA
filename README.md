@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0046-permutations) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0046-permutations) |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
