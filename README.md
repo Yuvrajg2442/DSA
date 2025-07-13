@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Array
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String
