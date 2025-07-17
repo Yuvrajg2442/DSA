@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0090-subsets-ii) |
 | [0485-max-consecutive-ones](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0645-set-mismatch) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
