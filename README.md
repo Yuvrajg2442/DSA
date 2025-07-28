@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0090-subsets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0645-set-mismatch) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sorting
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Binary Search
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0131-palindrome-partitioning) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
