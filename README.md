@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0645-set-mismatch) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0090-subsets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0645-set-mismatch) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0131-palindrome-partitioning) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
