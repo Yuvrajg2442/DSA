@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0131-palindrome-partitioning) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
