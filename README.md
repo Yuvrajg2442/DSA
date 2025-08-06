@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -296,8 +298,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
