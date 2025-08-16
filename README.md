@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1448-maximum-69-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0090-subsets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
