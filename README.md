@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0940-fruit-into-baskets) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0131-palindrome-partitioning) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/0037-sudoku-solver) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Divide and Conquer
 |  |
