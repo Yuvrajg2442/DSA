@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
