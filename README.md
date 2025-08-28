@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3791-fruits-into-baskets-iii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2479-meeting-rooms-iii](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
 |  |
 | ------- |
