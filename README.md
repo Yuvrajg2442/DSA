@@ -342,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1628-count-submatrices-with-all-ones) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Yuvrajg2442/Striver-DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
